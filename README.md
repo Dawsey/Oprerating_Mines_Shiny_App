@@ -1,8 +1,6 @@
 OPERATING MINES IN WESTERN AUSTRALIA
 ========================================================
-author: Nick  
-date: 14 December 2019
-autosize: true
+date: December 2019
 
 INTRODUCTION
 ========================================================
@@ -17,9 +15,6 @@ The source of the data is https://dasc.dmp.wa.gov.au/DASC?productAlias=MINEDEXOp
 
 ABOUT THE DATA
 ========================================================
-
-
-
 
 The data contains 33 variables with 1144 observations.
 
